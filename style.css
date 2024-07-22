@@ -1,0 +1,27 @@
+.top {
+    color: azure;
+    text-align: left;
+    font-family: monospace; 
+}
+body {
+    background-image: url(p.webp);
+}
+li { 
+    color: azure;
+    font-family: monospace;
+    font-size: 1.2em;   
+}
+img {
+    width: 500;
+    height: 400;  
+}
+.h {
+    color: rgb(231, 136, 12);
+    font-family: monospace;
+}
+button {
+    float: top left;
+    background-color: rgb(233, 218, 16);
+    color: rgb(8, 80, 80);
+    border: none;
+}
